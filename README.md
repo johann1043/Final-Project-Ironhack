@@ -4,6 +4,8 @@
 
 Team: Ana Melissa Valladares and Johannes Kessel
 
+Presentation Link: https://view.genial.ly/65e1d625c4201e0014d8c2af/presentation-botaiq
+
 ## Business Idea
 
 ## 1. Convolutional Neural Network (CNN) for Multivariate Classification
